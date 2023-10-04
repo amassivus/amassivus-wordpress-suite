@@ -8,6 +8,8 @@ amassivus wordpress suite which includes themes, plugins and the custom Wordpres
 
 Copyright (C) 2023 Masscollabs Services
 
+Copyright (C) 2023 amassivus and contributors
+
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
 by the Free Software Foundation, either version 3 of the License, or
