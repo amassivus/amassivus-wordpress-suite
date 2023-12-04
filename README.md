@@ -6,9 +6,9 @@ amassivus wordpress suite which includes themes, plugins and the custom Wordpres
 
 amassivus wordpress suite which includes themes, plugins and the custom Wordpress core source code
 
-Copyright (C) 2023 Masscollabs Services
+Copyright (C) 2017-2024 Masscollabs Services
 
-Copyright (C) 2023 amassivus and contributors
+Copyright (C) 2017-2024 amassivus and contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
